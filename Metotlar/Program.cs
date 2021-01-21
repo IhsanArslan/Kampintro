@@ -36,7 +36,7 @@ namespace Metotlar
             Console.WriteLine("-----------Metotlar-----------");
             //instance - örnek
             //encapsulation
-
+s
             SepetManager sepetManager = new SepetManager();
             sepetManager.Ekle(urun1);
             sepetManager.Ekle(urun2);
